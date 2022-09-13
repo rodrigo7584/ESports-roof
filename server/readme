@@ -1,0 +1,23 @@
+para inicializar um node o comando é
+npm init -y
+o -y é para dar yes para todas perguntas q viram
+instalamos o express
+npm install express
+express é um framework de backend
+
+hoppscoth
+insonia ou
+postman para fazer teste de requisicoes
+
+instalamos typescript
+npm install typescript
+node não entende typescript então tem de instalar como dependencia de dev
+
+instalmos typescript mas o express não entende ts nativamente então
+instalamos mais um lib
+npm install --save @types/express -D
+
+tmb com dev
+
+para não ter que ficar gerando toda hora o server.js instalamos uma ferramenta
+npm install ts-node-dev -D
